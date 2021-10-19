@@ -1,6 +1,7 @@
 # kanpla-orders
-A NODE JS TASK TO SAFELY AND EFFICIENTLY STORE BIG DATA
-A robust and highly scalable future-proof solution for efficient magagement of data.
+This is a Node Js task which is intended to safely and efficiently store large piece of data.
+
+It is a robust and highly scalable solution for efficient magagement of big data.
 
 Languages, frameworks and services used include: NODE JS, EXPRESS JS, TYPESCRIPT, CLOUD FUNCTIONS, BIGQUERY and CLOUD STORAGE
 
